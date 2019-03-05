@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css?family=Lato|Shadows+Into+Light');
+
+
+
+html,
+body {
+    font-family: 'Lato', sans-serif;
+    font-size: 12px;
+    background: #f8f8f8;
+}
+
+h3 {
+    font-family: 'Shadows Into Light', cursive, sans-serif;
+    font-size: 40px;
+}
+
+h3 i {
+    color: #c00;
+    font-style: normal;
+}
+
+.card {
+    background: #fff;
+    border-radius: 2px;
+    display: inline-block;
+    min-height: 300px;
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+    border: 1px solid #999;
+}
